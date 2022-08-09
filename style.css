@@ -1,0 +1,44 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.formClass{
+    border: 2px solid lightblue;
+    padding: 20px;
+    margin: 20px;
+}
+#HeightID{
+    width: 200px;
+}
+.input-group{
+    margin: 10px;
+    width: 500px;
+    border-radius: 5px;
+    border-color: rgb(150, 135, 135,0.7);
+}
+#units{
+    border-radius: 5px;
+    border-color: rgb(150, 135, 135,0.5);
+}
+#Bt{
+    margin-top: 12px;
+    width: 145px;
+    height: 80px;
+    white-space: normal;
+    color: white;
+    background-color: rgb(40, 40, 212);
+    border: none;
+    padding: 10px;
+}
+#Bt:hover{
+    background-color: rgb(54, 136, 243);
+}
+.text{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+#textRED{
+    color:red;
+}
